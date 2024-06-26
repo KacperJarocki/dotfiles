@@ -3,7 +3,6 @@ local configs = require "nvchad.configs.lspconfig"
 local servers = {
   html = {},
   cssls = {},
-  rust_analyzer = {},
 }
 
 -- lsps with default config
